@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "VisualPrgQ1", "VisualPrgQ1\VisualPrgQ1.vbproj", "{6952F28C-195C-4D7F-9B04-B3E6CF8AAE71}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6952F28C-195C-4D7F-9B04-B3E6CF8AAE71}.Debug|x86.ActiveCfg = Debug|x86
+		{6952F28C-195C-4D7F-9B04-B3E6CF8AAE71}.Debug|x86.Build.0 = Debug|x86
+		{6952F28C-195C-4D7F-9B04-B3E6CF8AAE71}.Release|x86.ActiveCfg = Release|x86
+		{6952F28C-195C-4D7F-9B04-B3E6CF8AAE71}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

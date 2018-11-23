@@ -1,0 +1,292 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{6952F28C-195C-4D7F-9B04-B3E6CF8AAE71}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <StartupObject>VisualPrgQ1.My.MyApplication</StartupObject>
+    <RootNamespace>VisualPrgQ1</RootNamespace>
+    <AssemblyName>VisualPrgQ1</AssemblyName>
+    <FileAlignment>512</FileAlignment>
+    <MyType>WindowsForms</MyType>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <DefineDebug>true</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DocumentationFile>VisualPrgQ1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <DefineDebug>false</DefineDebug>
+    <DefineTrace>true</DefineTrace>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DocumentationFile>VisualPrgQ1.xml</DocumentationFile>
+    <NoWarn>42016,41999,42017,42018,42019,42032,42036,42020,42021,42022</NoWarn>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionExplicit>On</OptionExplicit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionCompare>Binary</OptionCompare>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionStrict>Off</OptionStrict>
+  </PropertyGroup>
+  <PropertyGroup>
+    <OptionInfer>On</OptionInfer>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+  </ItemGroup>
+  <ItemGroup>
+    <Import Include="Microsoft.VisualBasic" />
+    <Import Include="System" />
+    <Import Include="System.Collections" />
+    <Import Include="System.Collections.Generic" />
+    <Import Include="System.Data" />
+    <Import Include="System.Drawing" />
+    <Import Include="System.Diagnostics" />
+    <Import Include="System.Windows.Forms" />
+    <Import Include="System.Linq" />
+    <Import Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="frmAction11.Designer.vb">
+      <DependentUpon>frmAction11.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAction11.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAction10.Designer.vb">
+      <DependentUpon>frmAction10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAction10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAction2.Designer.vb">
+      <DependentUpon>frmAction2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAction2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAction3.Designer.vb">
+      <DependentUpon>frmAction3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAction3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAction5.Designer.vb">
+      <DependentUpon>frmAction5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAction5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAction7.Designer.vb">
+      <DependentUpon>frmAction7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAction7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAssign4.Designer.vb">
+      <DependentUpon>frmAssign4.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAssign4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAssign6.designer.vb">
+      <DependentUpon>frmAssign6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAssign6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAssign9.designer.vb">
+      <DependentUpon>frmAssign9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAssign9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPractice10.Designer.Vb">
+      <DependentUpon>frmPractice10.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPractice10.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPractice2.Designer.vb">
+      <DependentUpon>frmPractice2.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPractice2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAssign1.Designer.vb">
+      <DependentUpon>frmAssign1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmAssign1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPractice1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPractice1.Designer.vb">
+      <DependentUpon>frmPractice1.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPractice3.designer.vb">
+      <DependentUpon>frmPractice3.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPractice3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPractice4.Designer.Vb">
+      <DependentUpon>frmPractice4.Vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPractice4.Vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPractice5.Designer.vb">
+      <DependentUpon>frmPractice5.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPractice5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPractice6.Designer.vb">
+      <DependentUpon>frmPractice6.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPractice6.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPractice7.designer.vb">
+      <DependentUpon>frmPractice7.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPractice7.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPractice9.designer.vb">
+      <DependentUpon>frmPractice9.vb</DependentUpon>
+    </Compile>
+    <Compile Include="frmPractice9.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="My Project\AssemblyInfo.vb" />
+    <Compile Include="My Project\Application.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Application.myapp</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Resources.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="My Project\Settings.Designer.vb">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="frmAction11.resx">
+      <DependentUpon>frmAction11.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAction10.resx">
+      <DependentUpon>frmAction10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAction2.resx">
+      <DependentUpon>frmAction2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAction3.resx">
+      <DependentUpon>frmAction3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAction5.resx">
+      <DependentUpon>frmAction5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAction7.resx">
+      <DependentUpon>frmAction7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAssign4.resx">
+      <DependentUpon>frmAssign4.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAssign6.resx">
+      <DependentUpon>frmAssign6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAssign9.resx">
+      <DependentUpon>frmAssign9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPractice10.resx">
+      <DependentUpon>frmPractice10.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPractice2.resx">
+      <DependentUpon>frmPractice2.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAssign1.resx">
+      <DependentUpon>frmAssign1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPractice1.resx">
+      <DependentUpon>frmPractice1.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPractice3.resx">
+      <DependentUpon>frmPractice3.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPractice4.resx">
+      <DependentUpon>frmPractice4.Vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPractice5.resx">
+      <DependentUpon>frmPractice5.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPractice6.resx">
+      <DependentUpon>frmPractice6.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPractice7.resx">
+      <DependentUpon>frmPractice7.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPractice9.resx">
+      <DependentUpon>frmPractice9.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="My Project\Resources.resx">
+      <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.vb</LastGenOutput>
+      <CustomToolNamespace>My.Resources</CustomToolNamespace>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="My Project\Application.myapp">
+      <Generator>MyApplicationCodeGenerator</Generator>
+      <LastGenOutput>Application.Designer.vb</LastGenOutput>
+    </None>
+    <None Include="My Project\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <CustomToolNamespace>My</CustomToolNamespace>
+      <LastGenOutput>Settings.Designer.vb</LastGenOutput>
+    </None>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.VisualBasic.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

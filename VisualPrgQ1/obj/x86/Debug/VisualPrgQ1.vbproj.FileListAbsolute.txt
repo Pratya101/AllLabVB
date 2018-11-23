@@ -1,0 +1,135 @@
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.exe
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.xml
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.pdb
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.exe
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.pdb
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.xml
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction2.resources
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice2.resources
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign1.resources
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice3.resources
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.Resources.resources
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.vbproj.GenerateResource.Cache
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice1.resources
+C:\Users\COM-1\Downloads\2016-20171123T105440Z-001\16-11-2016\VisualPrgQ1-20171116T083324Z-001\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction3.resources
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.exe
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.xml
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.pdb
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.exe
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.pdb
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.xml
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction2.resources
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction3.resources
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice2.resources
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign1.resources
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice1.resources
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice3.resources
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.Resources.resources
+C:\Users\coffee\Downloads\Compressed\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.vbproj.GenerateResource.Cache
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.exe
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.xml
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.pdb
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.exe
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.pdb
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.xml
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction2.resources
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction3.resources
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice2.resources
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign1.resources
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice1.resources
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice3.resources
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice4.resources
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.Resources.resources
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.vbproj.GenerateResource.Cache
+C:\Users\COM-1\Desktop\23-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign4.resources
+C:\Users\gafai\Downloads\Compressed\30-11-2560\30-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.exe
+C:\Users\gafai\Downloads\Compressed\30-11-2560\30-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.xml
+C:\Users\gafai\Downloads\Compressed\30-11-2560\30-11-2560\23-11-2560\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.pdb
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.exe
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.xml
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.pdb
+D:\VB\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.exe
+D:\VB\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.pdb
+D:\VB\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.xml
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction2.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction3.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign4.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice2.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign1.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice1.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice3.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice4.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.Resources.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.vbproj.GenerateResource.Cache
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice5.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction5.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice6.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign6.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction7.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice7.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice8.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign9.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice10.resources
+D:\VB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction10.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.exe
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.xml
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.pdb
+H:\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.exe
+H:\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.pdb
+H:\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.xml
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction10.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction2.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction3.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction5.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction7.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign4.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign6.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign9.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice10.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice2.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign1.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice1.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice3.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice4.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice5.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice6.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice7.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice8.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.Resources.resources
+H:\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.vbproj.GenerateResource.Cache
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.exe
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.xml
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.pdb
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.exe.config
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.exe
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.pdb
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.xml
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction11.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction10.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction2.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction3.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction5.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAction7.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign4.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign6.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign9.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice10.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice2.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmAssign1.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice1.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice3.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice4.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice5.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice6.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice7.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.frmPractice8.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.Resources.resources
+C:\Users\I Am Coffee\Desktop\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.vbproj.GenerateResource.Cache
+E:\FB\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.exe.config
+E:\FB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.exe
+E:\FB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.xml
+E:\FB\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.pdb
+G:\StudyPortfolio\วิชาVB\เเลป\VisualPrgQ1\VisualPrgQ1\bin\Debug\VisualPrgQ1.exe.config
+G:\StudyPortfolio\วิชาVB\เเลป\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.exe
+G:\StudyPortfolio\วิชาVB\เเลป\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.xml
+G:\StudyPortfolio\วิชาVB\เเลป\VisualPrgQ1\VisualPrgQ1\obj\x86\Debug\VisualPrgQ1.pdb
